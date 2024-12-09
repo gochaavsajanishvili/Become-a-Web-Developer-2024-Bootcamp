@@ -1,0 +1,18 @@
+body, html, h1 {
+  margin: 0;
+  padding: 0;
+}
+
+.top-section-wrapper {
+  background-color: #001D37;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.top-section {
+  color: white;
+  padding-top: 139px;
+  padding-bottom: 139px;
+  max-width: 1066px;
+  margin: 0 auto;
+}
